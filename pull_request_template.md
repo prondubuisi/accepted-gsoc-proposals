@@ -9,4 +9,3 @@
 NB: 
 * Please ensure that shared links are publickly accesible
 * Please remove personal information from your proposals if you don't want to share them
-* Why Scapping the internet for accepted proposals is good, I will prefer that the GSoC candidates add their proposals themselves(Intellctual property D:)
