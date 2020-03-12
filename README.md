@@ -1,5 +1,13 @@
-# accepted-gsoc-proposals
+# Accepted-gsoc-proposals
 A repository containing links to accepted proposals for GSoC, Hopefully this helps someone write a better proposal and get accepted into the program
+
+## Featured Organizations
+* [Amahi](Amahi)
+* [Cloud Native Computing Foundation](CNCF)
+* [CiviCRM](CiviCRM)
+* [Godot Engine](Godot)
+* [Joomla](Joomla)
+* [Oppia Foundation](Oppia)
 
 ## Contribution guide
 * Fork the project
