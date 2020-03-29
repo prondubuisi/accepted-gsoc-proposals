@@ -3,12 +3,14 @@ A repository containing links to accepted proposals for GSoC, Hopefully this hel
 
 ## Featured Organizations
 * [Amahi](Amahi)
-* [Cloud Native Computing Foundation](CNCF)
 * [CiviCRM](CiviCRM)
 * [CloudCV](CloudCV)
+* [Cloud Native Computing Foundation](CNCF)
 * [Godot Engine](Godot)
 * [Homebrew](Homebrew)
 * [The Honeynet Project](HoneynetProject)
+* [Inclusive Design Institute](InclusiveDesign)
+* [Jenkins Project](Jenkins)
 * [Joomla](Joomla)
 * [jQuery Foundation](Jquery)
 * [The Julia Language](Julia)
@@ -18,6 +20,7 @@ A repository containing links to accepted proposals for GSoC, Hopefully this hel
 * [Ruby](Ruby)
 * [Sugar Labs](SugarLabs)
 * [Tiled](Tiled)
+* [Ushahidi](Ushahidi)
 * [Zulip Open Source Project](Zulip)
 
 
