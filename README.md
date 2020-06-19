@@ -18,6 +18,7 @@ A repository containing links to accepted proposals for GSoC, Hopefully this hel
 * [Mozilla](Mozilla)
 * [Oppia Foundation](Oppia)
 * [Ruby](Ruby)
+* [Ruby Science Foundation](SciRuby)
 * [Sugar Labs](SugarLabs)
 * [Tiled](Tiled)
 * [Ushahidi](Ushahidi)
